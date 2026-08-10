@@ -1,0 +1,7 @@
+pre-commit:
+  commands:
+    format-layout:
+      root: "cornix/"
+      glob: "cornix/layout.vil"
+      run: jq . layout.vil > layout.vil.tmp && mv layout.vil.tmp layout.vil
+      stage_fixed: true

@@ -1,0 +1,12 @@
+version: '3'
+
+tasks:
+  format:
+    desc: "layout.vil を整形してインデントを挿入"
+    cmds:
+      - 'jq . layout.vil > layout.vil.tmp && mv layout.vil.tmp layout.vil'
+
+  minify:
+    desc: "layout.vil を1行に圧縮"
+    cmds:
+      - 'jq -c . layout.vil > layout.vil.tmp && mv layout.vil.tmp layout.vil'
