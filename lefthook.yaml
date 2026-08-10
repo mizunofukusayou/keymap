@@ -3,5 +3,15 @@ pre-commit:
     format-layout:
       root: "cornix/"
       glob: "cornix/layout.vil"
-      run: jq . layout.vil > layout.vil.tmp && mv layout.vil.tmp layout.vil
+      run: |
+        if ! git diff --cached --name-only | grep -q 'cornix/layout\.pdf$'; then
+          echo "エラー: layout.vil をコミットする場合は layout.pdf も同時にステージングしてください。" >&2
+          exit 1
+        fi
+
+        jq . layout.vil > layout.vil.tmp && mv layout.vil.tmp layout.vil
+
+        rm -f layer-*.png
+        pdftoppm -png -r 300 layout.pdf layer
+        git add layer-*.png
       stage_fixed: true
