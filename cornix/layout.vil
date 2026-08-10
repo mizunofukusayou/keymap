@@ -60,8 +60,8 @@
       [
         "KC_RSHIFT",
         "KC_SLASH",
-        "KC_DOT",
-        "KC_COMMA",
+        "KC_LALT",
+        "KC_ESCAPE",
         "KC_M",
         "KC_N",
         -1
@@ -155,8 +155,8 @@
         "KC_TRNS",
         "KC_TRNS",
         "LSFT(KC_3)",
-        "KC_KP_DOT",
-        "KC_KP_COMMA",
+        "KC_COMMA",
+        "KC_DOT",
         "KC_KP_EQUAL",
         -1
       ],
