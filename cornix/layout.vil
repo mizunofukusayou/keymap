@@ -165,8 +165,8 @@
         "KC_TRNS",
         "KC_F5",
         "KC_F10",
-        "KC_TAB",
-        "KC_TRNS",
+        "LGUI(KC_TAB)",
+        "LALT(KC_TAB)",
         -1
       ],
       [
