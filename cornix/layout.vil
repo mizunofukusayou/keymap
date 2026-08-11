@@ -398,7 +398,7 @@
         "KC_NO",
         "KC_NO",
         "KC_NO",
-        "KC_MUTE"
+        "KC_NO"
       ],
       [
         "KC_NO",
@@ -425,81 +425,7 @@
         "KC_NO",
         "KC_NO",
         "KC_NO",
-        "KC_BTN3"
-      ],
-      [
-        "KC_NO",
-        "KC_NO",
-        "KC_NO",
-        "KC_NO",
-        "KC_NO",
-        "KC_NO",
-        -1
-      ],
-      [
-        "KC_NO",
-        "KC_NO",
-        "KC_NO",
-        "KC_NO",
-        "KC_NO",
-        "KC_NO",
-        -1
-      ]
-    ],
-    [
-      [
-        "KC_NO",
-        "KC_NO",
-        "KC_NO",
-        "KC_NO",
-        "KC_NO",
-        "KC_NO",
-        -1
-      ],
-      [
-        "KC_NO",
-        "KC_NO",
-        "KC_NO",
-        "KC_NO",
-        "KC_NO",
-        "KC_NO",
-        -1
-      ],
-      [
-        "KC_NO",
-        "KC_NO",
-        "KC_NO",
-        "KC_NO",
-        "KC_NO",
-        "KC_NO",
-        "KC_MUTE"
-      ],
-      [
-        "KC_NO",
-        "KC_NO",
-        "KC_NO",
-        "KC_NO",
-        "KC_NO",
-        "KC_NO",
-        -1
-      ],
-      [
-        "KC_NO",
-        "KC_NO",
-        "KC_NO",
-        "KC_NO",
-        "KC_NO",
-        "KC_NO",
-        -1
-      ],
-      [
-        "KC_NO",
-        "KC_NO",
-        "KC_NO",
-        "KC_NO",
-        "KC_NO",
-        "KC_NO",
-        "KC_BTN3"
+        "KC_NO"
       ],
       [
         "KC_NO",
@@ -546,7 +472,7 @@
         "KC_NO",
         "KC_NO",
         "KC_NO",
-        "KC_MUTE"
+        "KC_NO"
       ],
       [
         "KC_NO",
@@ -573,7 +499,81 @@
         "KC_NO",
         "KC_NO",
         "KC_NO",
-        "KC_BTN3"
+        "KC_NO"
+      ],
+      [
+        "KC_NO",
+        "KC_NO",
+        "KC_NO",
+        "KC_NO",
+        "KC_NO",
+        "KC_NO",
+        -1
+      ],
+      [
+        "KC_NO",
+        "KC_NO",
+        "KC_NO",
+        "KC_NO",
+        "KC_NO",
+        "KC_NO",
+        -1
+      ]
+    ],
+    [
+      [
+        "KC_NO",
+        "KC_NO",
+        "KC_NO",
+        "KC_NO",
+        "KC_NO",
+        "KC_NO",
+        -1
+      ],
+      [
+        "KC_NO",
+        "KC_NO",
+        "KC_NO",
+        "KC_NO",
+        "KC_NO",
+        "KC_NO",
+        -1
+      ],
+      [
+        "KC_NO",
+        "KC_NO",
+        "KC_NO",
+        "KC_NO",
+        "KC_NO",
+        "KC_NO",
+        "KC_NO"
+      ],
+      [
+        "KC_NO",
+        "KC_NO",
+        "KC_NO",
+        "KC_NO",
+        "KC_NO",
+        "KC_NO",
+        -1
+      ],
+      [
+        "KC_NO",
+        "KC_NO",
+        "KC_NO",
+        "KC_NO",
+        "KC_NO",
+        "KC_NO",
+        -1
+      ],
+      [
+        "KC_NO",
+        "KC_NO",
+        "KC_NO",
+        "KC_NO",
+        "KC_NO",
+        "KC_NO",
+        "KC_NO"
       ],
       [
         "KC_NO",
@@ -796,52 +796,52 @@
     ],
     [
       [
-        "KC_VOLD",
-        "KC_VOLU"
+        "KC_NO",
+        "KC_NO"
       ],
       [
-        "KC_WH_U",
-        "KC_WH_D"
+        "KC_NO",
+        "KC_NO"
       ]
     ],
     [
       [
-        "KC_VOLD",
-        "KC_VOLU"
+        "KC_NO",
+        "KC_NO"
       ],
       [
-        "KC_WH_U",
-        "KC_WH_D"
+        "KC_NO",
+        "KC_NO"
       ]
     ],
     [
       [
-        "KC_VOLD",
-        "KC_VOLU"
+        "KC_NO",
+        "KC_NO"
       ],
       [
-        "KC_WH_U",
-        "KC_WH_D"
+        "KC_NO",
+        "KC_NO"
       ]
     ],
     [
       [
-        "KC_VOLD",
-        "KC_VOLU"
+        "KC_NO",
+        "KC_NO"
       ],
       [
-        "KC_WH_U",
-        "KC_WH_D"
+        "KC_NO",
+        "KC_NO"
       ]
     ],
     [
       [
-        "KC_VOLD",
-        "KC_VOLU"
+        "KC_NO",
+        "KC_NO"
       ],
       [
-        "KC_WH_U",
-        "KC_WH_D"
+        "KC_NO",
+        "KC_NO"
       ]
     ]
   ],
