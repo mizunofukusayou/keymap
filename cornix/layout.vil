@@ -162,7 +162,7 @@
       ],
       [
         "KC_TRNS",
-        "KC_TRNS",
+        "KC_LANG2",
         "KC_F5",
         "KC_F10",
         "LGUI(KC_TAB)",
@@ -198,7 +198,7 @@
       ],
       [
         "KC_TRNS",
-        "KC_TRNS",
+        "KC_LANG1",
         "KC_RIGHT",
         "KC_UP",
         "KC_DOWN",
