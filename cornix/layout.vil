@@ -36,7 +36,7 @@
         "KC_NO",
         "KC_BSPACE",
         "MO(2)",
-        "KC_ESCAPE",
+        "LCTL_T(KC_ESCAPE)",
         -1
       ],
       [
@@ -71,8 +71,8 @@
         "KC_NO",
         "KC_NO",
         "KC_LGUI",
-        "MO(1)",
-        "KC_SPACE",
+        "LT1(KC_ENTER)",
+        "LSFT_T(KC_SPACE)",
         -1
       ]
     ],
