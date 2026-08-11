@@ -15,3 +15,8 @@ tasks:
     desc: "cornixhubを開く"
     cmds:
       - 'open https://cornixhub.com/keymap'
+
+  diff:
+    desc: "直近のコミットのdiffをgithubで確認する"
+    cmds:
+      - 'gh browse $(git rev-parse HEAD)'
