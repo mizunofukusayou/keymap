@@ -339,7 +339,7 @@
         "KC_TRNS",
         "KC_TRNS",
         "KC_TRNS",
-        "KC_TRNS",
+        "KC_MS_U",
         "KC_TRNS",
         "KC_TRNS",
         -1
@@ -348,9 +348,9 @@
         "KC_TRNS",
         "KC_TRNS",
         "KC_MS_R",
-        "KC_MS_U",
         "KC_MS_D",
         "KC_MS_L",
+        "KC_TRNS",
         "KC_TRNS"
       ],
       [
