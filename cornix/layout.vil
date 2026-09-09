@@ -626,35 +626,35 @@
         "KC_TRNS",
         "KC_TRNS",
         "KC_TRNS",
-        "MO(9)",
-        "KC_LCTRL",
         "KC_SPACE",
+        "KC_LCTRL",
+        "KC_ESCAPE",
         -1
       ],
       [
         "KC_TRNS",
         "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
+        "KC_BTN2",
+        "KC_MS_U",
+        "KC_BTN1",
         "KC_TRNS",
         -1
       ],
       [
         "KC_TRNS",
         "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
+        "KC_MS_R",
+        "KC_MS_D",
+        "KC_MS_L",
+        "KC_BTN1",
         "KC_TRNS"
       ],
       [
         "KC_TRNS",
         "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
+        "KC_BTN2",
+        "KC_BTN3",
+        "KC_BTN1",
         "KC_TRNS",
         -1
       ],
@@ -663,8 +663,8 @@
         "KC_TRNS",
         "KC_TRNS",
         "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
+        "MO(9)",
+        "KC_SPACE",
         -1
       ]
     ],
