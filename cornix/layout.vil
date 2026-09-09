@@ -163,10 +163,10 @@
       [
         "KC_TRNS",
         "KC_LANG2",
-        "KC_F5",
-        "KC_F10",
+        "LCA(KC_B)",
+        "LCA(KC_T)",
         "LGUI(KC_TAB)",
-        "LALT(KC_TAB)",
+        "KC_TRNS",
         -1
       ],
       [
