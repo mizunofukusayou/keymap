@@ -262,7 +262,7 @@
         -1
       ],
       [
-        "KC_TRNS",
+        "DF(8)",
         "KC_TRNS",
         "KC_TRNS",
         "KC_TRNS",
@@ -596,39 +596,39 @@
     ],
     [
       [
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
+        "KC_T",
+        "KC_ESCAPE",
+        "KC_Q",
+        "KC_W",
+        "KC_E",
+        "KC_R",
         -1
       ],
       [
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
+        "KC_G",
+        "KC_TAB",
+        "KC_A",
+        "KC_S",
+        "KC_D",
+        "KC_F",
         -1
       ],
       [
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
+        "KC_B",
+        "KC_LSHIFT",
+        "KC_Z",
+        "KC_X",
+        "KC_C",
+        "KC_V",
         "KC_TRNS"
       ],
       [
         "KC_TRNS",
         "KC_TRNS",
         "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
+        "MO(9)",
+        "KC_LCTRL",
+        "KC_SPACE",
         -1
       ],
       [
@@ -681,9 +681,9 @@
       [
         "KC_TRNS",
         "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
+        "KC_KP_1",
+        "KC_KP_2",
+        "KC_KP_3",
         "KC_TRNS",
         -1
       ],
@@ -706,7 +706,7 @@
         -1
       ],
       [
-        "KC_TRNS",
+        "DF(0)",
         "KC_TRNS",
         "KC_TRNS",
         "KC_TRNS",
