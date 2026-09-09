@@ -1,6 +1,9 @@
 version: '3'
 
 tasks:
+  default:
+    deps: [diff]
+
   format:
     desc: "layout.vil を整形してインデントを挿入"
     cmds:
