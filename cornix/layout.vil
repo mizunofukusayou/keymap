@@ -154,9 +154,9 @@
       [
         "KC_TRNS",
         "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
+        "LGUI(KC_C)",
+        "LGUI(KC_X)",
+        "LGUI(KC_V)",
         "KC_TRNS",
         -1
       ],
@@ -192,7 +192,7 @@
         "KC_TRNS",
         "KC_TRNS",
         "KC_TRNS",
-        "KC_TRNS",
+        "LGUI(KC_Z)",
         "KC_TRNS",
         -1
       ],
