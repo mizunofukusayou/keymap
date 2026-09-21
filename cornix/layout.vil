@@ -1110,18 +1110,18 @@
   ],
   "combo": [
     [
-      "KC_F",
-      "KC_J",
       "KC_NO",
       "KC_NO",
-      "KC_ESCAPE"
+      "KC_NO",
+      "KC_NO",
+      "KC_NO"
     ],
     [
-      "KC_G",
-      "KC_H",
       "KC_NO",
       "KC_NO",
-      "LGUI(KC_SPACE)"
+      "KC_NO",
+      "KC_NO",
+      "KC_NO"
     ],
     [
       "KC_NO",
