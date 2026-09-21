@@ -70,7 +70,7 @@
         "KC_NO",
         "KC_NO",
         "KC_NO",
-        "KC_ENTER",
+        "LSFT_T(KC_ENTER)",
         "MO(1)",
         "LGUI_T(KC_SPACE)",
         -1
