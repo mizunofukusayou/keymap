@@ -87,8 +87,8 @@
         -1
       ],
       [
-        "LSFT(KC_MINUS)",
         "LSFT(KC_1)",
+        "LSFT(KC_MINUS)",
         "LSFT(KC_COMMA)",
         "KC_LBRACKET",
         "LSFT(KC_9)",
