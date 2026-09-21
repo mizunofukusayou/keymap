@@ -14,7 +14,7 @@
       ],
       [
         "KC_TAB",
-        "LSFT_T(KC_A)",
+        "KC_A",
         "KC_S",
         "KC_D",
         "KC_F",
@@ -50,7 +50,7 @@
       ],
       [
         "KC_LALT",
-        "LSFT_T(KC_BSLASH)",
+        "KC_LSHIFT",
         "KC_L",
         "KC_K",
         "KC_J",
@@ -81,8 +81,8 @@
         "KC_TRNS",
         "KC_TRNS",
         "LSFT(KC_3)",
-        "KC_COMMA",
-        "KC_DOT",
+        "KC_SLASH",
+        "KC_BSLASH",
         "KC_KP_EQUAL",
         -1
       ],
