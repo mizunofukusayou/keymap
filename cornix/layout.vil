@@ -81,7 +81,7 @@
         "KC_TRNS",
         "KC_TRNS",
         "LSFT(KC_3)",
-        "KC_SLASH",
+        "LSFT(KC_SLASH)",
         "KC_BSLASH",
         "KC_KP_EQUAL",
         -1
@@ -101,7 +101,7 @@
         "LSFT(KC_7)",
         "LSFT(KC_2)",
         "KC_QUOTE",
-        "LSFT(KC_SLASH)",
+        "KC_SLASH",
         "KC_CAPSLOCK"
       ],
       [
@@ -110,7 +110,7 @@
         "KC_TRNS",
         "KC_DELETE",
         "MO(3)",
-        "KC_TRNS",
+        "MO(5)",
         -1
       ],
       [
@@ -218,7 +218,7 @@
         "KC_TRNS",
         "KC_TRNS",
         "KC_TRNS",
-        "KC_TRNS",
+        "LSFT(KC_ENTER)",
         "MO(3)",
         "MO(4)",
         -1
