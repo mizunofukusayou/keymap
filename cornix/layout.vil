@@ -626,9 +626,9 @@
         "KC_TRNS",
         "KC_TRNS",
         "KC_TRNS",
-        "KC_LCTRL",
-        "LT9(KC_ESCAPE)",
+        "KC_LALT",
         "KC_SPACE",
+        "LT9(KC_ESCAPE)",
         -1
       ],
       [
@@ -826,12 +826,12 @@
     ],
     [
       [
-        "KC_TRNS",
-        "KC_TRNS"
+        "KC_VOLD",
+        "KC_VOLU"
       ],
       [
-        "KC_TRNS",
-        "KC_TRNS"
+        "KC_BRID",
+        "KC_BRIU"
       ]
     ],
     [
