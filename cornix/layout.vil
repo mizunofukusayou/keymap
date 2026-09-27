@@ -750,8 +750,8 @@
         "KC_VOLU"
       ],
       [
-        "KC_WH_U",
-        "KC_WH_D"
+        "KC_BRID",
+        "KC_BRIU"
       ]
     ],
     [
@@ -766,12 +766,12 @@
     ],
     [
       [
-        "KC_VOLD",
-        "KC_VOLU"
+        "KC_TRNS",
+        "KC_TRNS"
       ],
       [
-        "KC_WH_U",
-        "KC_WH_D"
+        "KC_TRNS",
+        "KC_TRNS"
       ]
     ],
     [
